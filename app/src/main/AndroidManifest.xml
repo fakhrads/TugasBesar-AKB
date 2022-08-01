@@ -10,13 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Tugas_Besar_AKB_IF3_Cepat_Lulus">
         <activity
+            android:name=".ViewPager3"
+            android:exported="false" />
+        <activity
+            android:name=".ViewPager2"
+            android:exported="false" />
+        <activity
+            android:name=".ViewPager1"
+            android:exported="false" />
+        <activity
             android:name=".SplashScreen"
-            android:exported="true" >
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity
             android:name=".OjiActivity"
@@ -24,7 +33,6 @@
         <activity
             android:name=".MainActivity"
             android:exported="false" />
-
     </application>
 
 </manifest>
