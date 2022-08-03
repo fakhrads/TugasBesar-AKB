@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Tugas_Besar_AKB_IF3_Cepat_Lulus">
         <activity
+            android:name=".AhmadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FikriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FakhriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FauziActivity"
+            android:exported="false" />
+        <activity
             android:name=".ViewPager3"
             android:exported="false" />
         <activity
