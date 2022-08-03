@@ -5,30 +5,30 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".OjiActivity">
+    tools:context=".FakhriActivity">
 
     <ImageView
         android:layout_width="220dp"
         android:layout_height="220dp"
         android:layout_marginLeft="95dp"
         android:layout_marginTop="120dp"
-        android:src="@drawable/avatar_fauzioji"
+        android:src="@drawable/avatar_fakhri"
         tools:layout_editor_absoluteX="80dp"
         tools:layout_editor_absoluteY="73dp" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="FAUZI FIKRULLAH"
+        android:text="FAKHRI ADI SAPUTRA"
         android:textStyle="bold"
-        android:paddingHorizontal="112dp"
+        android:paddingHorizontal="91dp"
         android:layout_marginTop="30dp"
         android:textSize="23sp"/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="10119111"
+        android:text="10119116"
         android:textStyle="bold"
         android:paddingHorizontal="147dp"
         android:layout_marginTop="10dp"
