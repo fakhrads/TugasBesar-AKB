@@ -4,9 +4,10 @@ package com.example.tugas_besar_akb_if3_cepat_lulus;
 // kelas : if_3
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.Activity;
 import android.os.Bundle;
 
-public class FakhriActivity extends AppCompatActivity {
+public class FakhriActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
