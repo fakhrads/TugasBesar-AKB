@@ -1,10 +1,12 @@
 package com.example.tugas_besar_akb_if3_cepat_lulus;
+
 // nama  : muhammad rojabi nur fauzi
 // nim   : 10119091
 // kelas : if_3
 // nama  : fauzi fikrullah
 // nim   : 10119111
 // kelas : if_3
+
 import android.content.Intent;
 import android.os.Bundle;
 
@@ -33,7 +35,7 @@ public class ProfileFragment extends Fragment implements AdapterView.OnItemClick
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
-        String[] profileName = {"", "Fauzi Fikrullah", "Muhammad Rojabi Nur Fauzi", "Fakhri Adi Saputra", "Fikri Muhamad Fauzi", "Ahmad Fikri Maulana"};
+        String[] profileName = {"", "Fauzi Fikrullah", "Muhammad Rojabi Nur Fauzi", "Fakhri Adi Saputra", "Ahmad Fikri Maulana"};
 
         ListView listView = (ListView)view.findViewById(R.id.list_profile);
         ArrayAdapter<String> adapter = new ArrayAdapter<>(getActivity(), android.R.layout.simple_list_item_1, profileName);
@@ -58,10 +60,6 @@ public class ProfileFragment extends Fragment implements AdapterView.OnItemClick
             startActivity(intent);
         }
         if(position==4) {
-            Intent intent = new Intent(getActivity().getApplication(), FikriActivity.class);
-            startActivity(intent);
-        }
-        if(position==5) {
             Intent intent = new Intent(getActivity().getApplication(), AhmadActivity.class);
             startActivity(intent);
         }

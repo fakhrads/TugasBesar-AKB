@@ -1,5 +1,12 @@
 package com.example.tugas_besar_akb_if3_cepat_lulus;
 
+// nama  : muhammad rojabi nur fauzi
+// nim   : 10119091
+// kelas : if_3
+// nama  : ahmad fikri maulana
+// nim   : 10119106
+// kelas : if_3
+
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
