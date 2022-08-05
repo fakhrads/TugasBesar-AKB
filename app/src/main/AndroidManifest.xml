@@ -13,9 +13,6 @@
             android:name=".AhmadActivity"
             android:exported="false" />
         <activity
-            android:name=".FikriActivity"
-            android:exported="false" />
-        <activity
             android:name=".FakhriActivity"
             android:exported="false" />
         <activity
