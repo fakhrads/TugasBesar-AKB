@@ -20,4 +20,9 @@
         android:name="com.example.tugas_besar_akb_if3_cepat_lulus.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/listMapsFragment"
+        android:name="com.example.tugas_besar_akb_if3_cepat_lulus.ListMapsFragment"
+        android:label="fragment_list_maps"
+        tools:layout="@layout/fragment_list_maps" />
 </navigation>
