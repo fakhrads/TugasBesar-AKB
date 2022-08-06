@@ -1,66 +1,65 @@
 {
   "project_info": {
-    "project_number": "305596025916",
-    "firebase_url": "https://maps-8d11e-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "maps-8d11e",
-    "storage_bucket": "maps-8d11e.appspot.com"
+    "project_number": "739072611533",
+    "firebase_url": "https://fakhrads.firebaseio.com",
+    "project_id": "fakhrads",
+    "storage_bucket": "fakhrads.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:305596025916:android:9f8e75c296ce8ddae18739",
+        "mobilesdk_app_id": "1:739072611533:android:2c7aabe17d23d7c8364584",
         "android_client_info": {
-          "package_name": "com.example.sensor_10119111"
+          "package_name": "com.example.aplikasiloginfirebase"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "305596025916-9o9s3jbc4o688fenlnfv3nrgv8km5pcq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBqwUaUU2GbHzoqOzF0BsqWG3_yfY7NPlU"
+          "current_key": "AIzaSyBK2xbfa_R230VYCTxDyxL81z84wBgJbBA"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "305596025916-9o9s3jbc4o688fenlnfv3nrgv8km5pcq.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:305596025916:android:7d00a54fa692d1a8e18739",
+        "mobilesdk_app_id": "1:739072611533:android:f0b3bc2f74464951364584",
         "android_client_info": {
           "package_name": "com.example.tugas_besar_akb_if3_cepat_lulus"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "305596025916-9o9s3jbc4o688fenlnfv3nrgv8km5pcq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBqwUaUU2GbHzoqOzF0BsqWG3_yfY7NPlU"
+          "current_key": "AIzaSyBK2xbfa_R230VYCTxDyxL81z84wBgJbBA"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "305596025916-9o9s3jbc4o688fenlnfv3nrgv8km5pcq.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739072611533:android:763c81777bbd77e4364584",
+        "android_client_info": {
+          "package_name": "id.fakhrads.mychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK2xbfa_R230VYCTxDyxL81z84wBgJbBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
         }
       }
     }

@@ -16,6 +16,8 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.tugas_besar_akb_if3_cepat_lulus.R;
@@ -26,6 +28,7 @@ import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
@@ -73,6 +76,8 @@ public class MapFragment extends Fragment implements OnMapReadyCallback{
         LatLng warkop99 = new LatLng(-6.739473987604177, 107.67910010594038);
         googleMap.addMarker(new MarkerOptions().position(warkop99)
                 .title("Curug Ciangin"));
+
+
 
 
         LatLng warkopJagoRasa = new LatLng(-6.736802730258575, 107.66641611962608);
