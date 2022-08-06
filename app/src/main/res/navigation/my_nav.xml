@@ -7,22 +7,23 @@
 
     <fragment
         android:id="@+id/aboutFragment"
-        android:name="com.example.tugas_besar_akb_if3_cepat_lulus.AboutFragment"
-        android:label="fragment_about"
+        android:name="com.example.tugas_besar_akb_if3_cepat_lulus.ui.AboutFragment"
+        android:label="Tentang Aplikasi"
         tools:layout="@layout/fragment_about" />
     <fragment
         android:id="@+id/mapFragment"
-        android:name="com.example.tugas_besar_akb_if3_cepat_lulus.MapFragment"
-        android:label="fragment_map"
-        tools:layout="@layout/fragment_map" />
+        android:name="com.example.tugas_besar_akb_if3_cepat_lulus.ui.map.MapFragment"
+        android:label="Peta Wisata"
+        tools:layout="@layout/fragment_map2" />
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.example.tugas_besar_akb_if3_cepat_lulus.ProfileFragment"
-        android:label="fragment_profile"
+        android:name="com.example.tugas_besar_akb_if3_cepat_lulus.ui.ProfileFragment"
+        android:label="Profile Pembuat"
         tools:layout="@layout/fragment_profile" />
     <fragment
         android:id="@+id/listMapsFragment"
         android:name="com.example.tugas_besar_akb_if3_cepat_lulus.ListMapsFragment"
-        android:label="fragment_list_maps"
+        android:label="List Map"
         tools:layout="@layout/fragment_list_maps" />
+
 </navigation>

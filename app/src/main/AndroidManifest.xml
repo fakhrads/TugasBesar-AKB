@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.tugas_besar_akb_if3_cepat_lulus">
-
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -27,12 +28,8 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBLARkGs4zpFEIe4zi2QQAqxmYNf2fxprg" />
+            android:value="AIzaSyBPmKnOXPCN_4b-ypbnIrepyHLmerA2CI4" />
 
-        <activity
-            android:name=".MapsActivity_2"
-            android:exported="false"
-            android:label="@string/title_activity_maps2" />
         <activity
             android:name=".AhmadActivity"
             android:exported="false" />

@@ -1,4 +1,4 @@
-package com.example.tugas_besar_akb_if3_cepat_lulus;
+package com.example.tugas_besar_akb_if3_cepat_lulus.ui;
 
 // nama  : muhammad rojabi nur fauzi
 // nim   : 10119091
@@ -21,6 +21,12 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
+
+import com.example.tugas_besar_akb_if3_cepat_lulus.AhmadActivity;
+import com.example.tugas_besar_akb_if3_cepat_lulus.FakhriActivity;
+import com.example.tugas_besar_akb_if3_cepat_lulus.FauziActivity;
+import com.example.tugas_besar_akb_if3_cepat_lulus.OjiActivity;
+import com.example.tugas_besar_akb_if3_cepat_lulus.R;
 
 
 public class ProfileFragment extends Fragment implements AdapterView.OnItemClickListener {
