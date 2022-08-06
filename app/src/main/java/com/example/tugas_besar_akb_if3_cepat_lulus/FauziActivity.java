@@ -2,7 +2,8 @@ package com.example.tugas_besar_akb_if3_cepat_lulus;
 
 // nama  : muhammad rojabi nur fauzi
 // nim   : 10119091
-// kelas : if_3
+// kelas : if-3
+// 27 juli 2022
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -1,8 +1,9 @@
 package com.example.tugas_besar_akb_if3_cepat_lulus;
 
-// nama  : fauzi fikrullah
+// nama  : fauzi fikrinullah
 // nim   : 10119111
-// kelas : if_3
+// kelas : if-3
+// 27 juli 2022
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.navigation.NavController;

@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--     nama  : fakhri adi saputra-->
+<!--     nim   : 10119116-->
+<!--     kelas : if-3-->
+<!--     nama  : fauzi fikrinullah-->
+<!--     nim   : 10119111-->
+<!--     kelas : if-3-->
+<!--     27 juli 2022-->
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"

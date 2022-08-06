@@ -1,5 +1,10 @@
 package com.example.tugas_besar_akb_if3_cepat_lulus;
 
+// nama  : fauzi fikrinullah
+// nim   : 10119111
+// kelas : if-3
+// 27 juli 2022
+
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
