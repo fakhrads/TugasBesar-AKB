@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--     nama  : muhammad rojabi nur fauzi-->
+<!--     nim   : 10119091-->
+<!--     kelas : if-3-->
+<!--     nama  : ahmad fikri maulana-->
+<!--     nim   : 10119106-->
+<!--     kelas : if-3-->
+<!--     27 juli 2022-->
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"

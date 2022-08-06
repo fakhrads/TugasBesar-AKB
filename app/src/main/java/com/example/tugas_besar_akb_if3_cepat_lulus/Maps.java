@@ -1,5 +1,13 @@
 package com.example.tugas_besar_akb_if3_cepat_lulus;
 
+// nama  : fauzi fikrinullah
+// nim   : 10119111
+// kelas : if-3
+// nama  : fakhri adi saputra
+// nim   : 10119116
+// kelas : if-3
+// 27 juli 2022
+
 public class Maps {
     private String title;
     private double latitude, longitude;
